@@ -1,8 +1,8 @@
 # 介绍
-> 目前会大概有三种编程语言: **VB.net** python 易语言 
-> 其中**VB.net**作为主力语言
-> 持续更新KdpAV中...
-> 正在琢磨.NET ML...
+> 目前会大概有三种编程语言: **VB.net** python 易语言<br>
+> 其中**VB.net**作为主力语言<br>
+> 持续更新KdpAV中...<br>
+> 正在琢磨.NET ML...<br>
 
 ### KdpAV 更新日志
 
