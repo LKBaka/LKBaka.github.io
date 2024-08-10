@@ -6,12 +6,14 @@
 > 持续更新KdpAV中...<br>
 > 正在琢磨.NET ML...<br>
 
-### KdpAV 更新日志
 
-### 1.2.1
+<details>
+<summary>KdpAV 更新日志<summary>
+### 1.2.1 
 #### 更新了IU Song Part 6  
 #### 下载链接：
 #### [直链下载](files/KdpAV%201.2.1.7z)
+<details>
 ### 1.2.0
 #### 更新了河众云查杀
 ### 1.1.9
